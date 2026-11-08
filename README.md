@@ -8,7 +8,7 @@ A simple tool for downloading Pony Town skins.
 3. Open their player options.
 4. Click the **⬇ skin** button in the bottom-right corner.
 5. That's it! Your skin will be downloaded as a `.ptc` file.
-6. After this you can import skin at `copytown.lol to` view all parts and etc.
+6. After this you can import downloaded .ptc file at `copytown.lol to` view all parts and etc.
 ### Installation
 1. Download or clone this repository.
 2. Open `chrome://extensions/` in Chrome.
