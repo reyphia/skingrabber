@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "SkinGrabber",
+  "version": "1.0",
+  "description": "Download pony.town skins as .ptc",
+  "minimum_chrome_version": "111",
+  "content_scripts": [
+    {
+      "matches": ["https://pony.town/*"],
+      "js": ["injected.js"],
+      "run_at": "document_idle",
+      "world": "MAIN"
+    }
+  ]
+}
